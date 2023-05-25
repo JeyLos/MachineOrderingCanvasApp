@@ -1,0 +1,19 @@
+{
+  "940fec98-7817-49a4-b60f-72c845890493": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "Office 365 Users",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1626/1.0.1626.3238/office365users/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_office365users",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {},
+    "dataSources": [
+      "Office365Users"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "940fec98-7817-49a4-b60f-72c845890493"
+  }
+}
